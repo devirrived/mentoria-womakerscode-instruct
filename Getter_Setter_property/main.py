@@ -1,4 +1,4 @@
-# Getter [@property] = retornar o valor
+# Getter @property = retornar o valor
 # Setter = definir ou atualizar
 
 class Quadrado:
